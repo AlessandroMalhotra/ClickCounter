@@ -68,6 +68,7 @@ class ViewController: UIViewController {
         self.label.text = "\(self.count)"
         self.label2.text = "\(self.count)"
         self.view.backgroundColor = UIColor.red
+        
     }
     
 
